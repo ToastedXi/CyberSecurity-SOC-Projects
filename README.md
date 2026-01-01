@@ -5,7 +5,7 @@
 
 # SOC Cybersecurity Projects 🛡️
 
-**Your Collection of SOC Projects, Labs, Tools & Resources for Cybersecurity Portfolio**
+**Hands on SOC Projects & Labs to Build Real-World Security Operations Experience 🛡️**
 
 <!-- Optional: Add stats if your repo grows -->
 [![Stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)](https://github.com/yourusername/your-repo-name/stargazers)
