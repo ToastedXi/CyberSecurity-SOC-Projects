@@ -36,17 +36,13 @@
 
 A personal collection of hands-on SOC projects and labs I've completed (or am working on) to gain real-world experience. Each includes detailed write-ups, screenshots, tools used, and key takeaways in its folder.
 
-| # | Title                                      | Difficulty   | Category              | Description                                                                 | Status       | Folder Link                          |
-|---|--------------------------------------------|--------------|-----------------------|-----------------------------------------------------------------------------|--------------|--------------------------------------|
-| 1 | Phishing Email Triage & Investigation      | Beginner     | Alert Triage          | Analyzed suspicious emails, extracted IOCs, and documented findings         | Completed (Jan 2026) | [View](./01-Beginner-Labs/01-Phishing-Triage) |
-| 2 | Windows Log Analysis with Event Viewer & Sysmon | Beginner     | Log Analysis          | Parsed security events to detect brute force and privilege escalation       | Completed (Jan 2026) | [View](./01-Beginner-Labs/02-Windows-Logs) |
-| 3 | Network Traffic Analysis using Wireshark   | Beginner     | Network Forensics     | Identified C2 beacons and data exfiltration in sample PCAPs                 | In Progress  | [View](./01-Beginner-Labs/03-Wireshark-PCAP) |
-| 4 | Building Detection Rules with Sigma        | Intermediate | Detection Engineering | Wrote and tested Sigma rules for common adversary techniques                | Planned      | [View](./02-Intermediate-Labs/04-Sigma-Rules) |
-| 5 | Splunk Search & Dashboard Creation         | Intermediate | SIEM                  | Built dashboards for phishing and lateral movement detection                | Planned      | [View](./02-Intermediate-Labs/05-Splunk-Dashboards) |
-| 6 | Custom YARA Rules for Malware Hunting      | Intermediate | Threat Hunting        | Developed rules to detect specific malware families                         | Planned      | [View](./02-Intermediate-Labs/06-YARA-Rules) |
-| 7 | Homelab SIEM with Security Onion           | Advanced     | Homelab               | Deployed full SIEM stack and simulated attacks for alerting                 | Planned      | [View](./03-Advanced-Labs/07-Security-Onion) |
+| # | Title                                      | Difficulty   | Category              | Description                                                                 | Status                  | Folder Link                                   |
+|---|--------------------------------------------|--------------|-----------------------|-----------------------------------------------------------------------------|-------------------------|-----------------------------------------------|
+| 1 | Packet Sniffer using Scapy                 | Beginner     | Network Forensics     | Built a custom packet sniffer in Python to capture, filter, and analyze network traffic | Completed (Jan 2026)    | [View](https://github.com/ToastedXi/Simple-Sniffer) |
+| 2 | SOC Dashboard for IP Analysis (AbuseIPDB API) | Beginner     | Threat Intelligence   | Created a dashboard/script to query AbuseIPDB API, check IP reputation, and visualize malicious activity reports | Completed (Jan 2026)    | [View](https://github.com/ToastedXi/SOC-Analyst-Dashboard) |
+| 3 | Phishing Email Triage & Investigation      | Beginner     | Alert Triage          | Analyzed suspicious emails, extracted IOCs, and documented findings         | Planned                 | [View](./01-Beginner-Labs/03-Phishing-Triage) |
 
-> **Progress**: 2 Completed • 1 In Progress • 4 Planned  
+> **Progress**: 2 Completed • 1 In Progress • 7 Planned  
 > Last updated: January 2026
 
 ## SOC Labs
