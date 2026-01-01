@@ -69,7 +69,7 @@ Custom scripts I've built for SOC tasks (Python/Bash):
 
 Useful references for SOC/Blue Team learning:
 
-- **Certifications**: CompTIA Security+, CySA+, Splunk Core Certified User
+- **Certifications**: CompTIA Security+, CySA+, Splunk Core Certified User, SAL1
 - **Books**: Blue Team Handbook, Practical Malware Analysis
 - **Roadmaps**: [Cyber Security Expert](https://roadmap.sh/cyber-security)
 
