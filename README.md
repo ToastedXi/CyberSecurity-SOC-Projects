@@ -21,10 +21,6 @@
 
 <br>
 
-**View Complete Projects:**
-
-[![Full Project List](https://img.shields.io/badge/Full_Project_List-Click_here-brightgreen)](https://github.com/yourusername/your-repo-name/tree/main/Projects)
-
 </div>
 
 ## Table of Contents
@@ -37,6 +33,26 @@
 - [Tools & Scripts](#tools--scripts)
 - [Resources](#resources)
 - [License](#license)
+
+## Projects & Labs
+
+A collection of hands-on SOC projects and labs I've completed to build real-world cybersecurity skills. Each entry includes write-ups, screenshots, tools used, and key takeaways.
+
+| # | Title | Difficulty | Category | Description | Completed |
+|---|-------|------------|----------|-------------|-----------|
+| 1 | Phishing Email Triage & Investigation | Beginner | Alert Triage | Analyzed suspicious emails, extracted IOCs, and documented findings | Jan 2026 |
+| 2 | Windows Log Analysis with Event Viewer & Sysmon | Beginner | Log Analysis | Parsed security events to detect brute force and privilege escalation | Jan 2026 |
+| 3 | Network Traffic Analysis using Wireshark | Beginner | Network Forensics | Identified C2 beacons and data exfiltration in sample PCAPs | In Progress |
+| 4 | Building Detection Rules with Sigma | Intermediate | Detection Engineering | Wrote and tested Sigma rules for common adversary techniques | Planned |
+| 5 | Splunk Search & Dashboard Creation | Intermediate | SIEM | Built dashboards for phishing and lateral movement detection | Planned |
+| 6 | Custom YARA Rules for Malware Hunting | Intermediate | Threat Hunting | Developed rules to detect specific malware families | Planned |
+| 7 | Homelab SIEM with Security Onion | Advanced | Homelab | Deployed full SIEM stack and simulated attacks for alerting | Planned |
+
+<div align="center">
+
+[![View All Projects](./assets/folder-icon.png) View Detailed Projects →](./01-Beginner-Labs) | [](./02-Intermediate-Labs) [](./03-Advanced-Labs)
+
+</div>
 
 ## SOC Labs
 
