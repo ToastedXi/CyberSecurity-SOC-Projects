@@ -1,4 +1,4 @@
-![Kali Linux Dragon](https://e7.pngegg.com/pngimages/600/114/png-clipart-dragon-kali-linux-android-linux-logo-silhouette.png)
+![Kali Linux Dragon](https://i.pinimg.com/1200x/97/d0/56/97d0561be61dc6c301c2f32749a723b6.jpg)
 <!-- High-res transparent Kali dragon – centered perfectly on dark theme -->
 
 <div align="center">
