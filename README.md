@@ -1,4 +1,4 @@
-![Kali Dragon Logo or Your Custom Banner](https://i.pinimg.com/736x/a6/e7/d7/a6e7d784239e6242507f12b8039677c2.jpg)
+![Kali Dragon Logo or Your Custom Banner](https://i.pinimg.com/1200x/97/d0/56/97d0561be61dc6c301c2f32749a723b6.jpg)
 <!-- Replace the URL above with your own hosted image (e.g., upload to imgur or your repo). For a Kali-style dragon, search for "Kali Linux dragon logo PNG" and use a transparent one. -->
 
 <div align="center">
