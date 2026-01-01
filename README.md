@@ -50,7 +50,9 @@ A collection of hands-on SOC projects and labs I've completed to build real-worl
 
 <div align="center">
 
-[![View All Projects](./assets/folder-icon.png) View Detailed Projects →](./01-Beginner-Labs) | [](./02-Intermediate-Labs) [](./03-Advanced-Labs)
+**View Complete Projects:**
+
+[![Full Project List](https://img.shields.io/badge/Full_Project_List-Click_here-brightgreen)](https://github.com/yourusername/your-repo-name/tree/main/Projects)
 
 </div>
 
