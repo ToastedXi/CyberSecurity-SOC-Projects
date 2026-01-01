@@ -20,3 +20,18 @@
 [![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)](#tools--scripts)
 
 <br>
+
+**View Complete Projects:**
+
+[![Full Project List](https://img.shields.io/badge/Full_Project_List-Click_here-brightgreen)](https://github.com/yourusername/your-repo-name/tree/main/Projects)
+
+</div>
+
+## Table of Contents
+
+- [Projects](#projects)
+- [SOC Labs](#soc-labs)
+- [Tools & Scripts](#tools--scripts)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
