@@ -37,3 +37,38 @@
 - [Tools & Scripts](#tools--scripts)
 - [Resources](#resources)
 - [License](#license)
+
+## SOC Labs
+
+Hands-on labs from platforms like TryHackMe, HackTheBox, LetsDefend, etc.
+
+- Blue Team Lab 1: [Link or Folder]
+- Detection Engineering Lab: Sigma Rules
+
+## Tools & Scripts
+
+Custom Python/Bash scripts I've built:
+
+- Auto-log parser
+- Alert enrichment tool
+- Etc.
+
+## Resources
+
+- Recommended certifications: CompTIA Security+, CySA+, Splunk Core
+- Books: Blue Team Handbook, Practical Malware Analysis
+- Roadmaps: [Paul's Security Weekly Roadmap](https://example.com)
+
+## Contributing
+
+Contributions welcome! Feel free to open issues or PRs for new projects, fixes, or suggestions. ❤️
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+<div align="center">
+
+Made with 🔥 by [Your Name](https://github.com/yourusername)
+
+</div>
