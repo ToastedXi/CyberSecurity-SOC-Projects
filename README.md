@@ -84,6 +84,6 @@ This repository is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with 🔥 by [ToastedXi](https://github.com/ToastedXi)
+Made with ❤️ by [Brodie](https://github.com/ToastedXi)
 
 </div>
