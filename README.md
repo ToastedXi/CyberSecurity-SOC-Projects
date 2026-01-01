@@ -25,12 +25,15 @@
 
 ## Table of Contents
 
-- [Projects & Labs](#projects--labs)
+- [Projects](#projects)
+   - [Beginner Projects](#projects)
+   - [Intermediate Projects](#projects)
+   - [Advanced Projects](#projects)
 - [SOC Labs](#soc-labs)
 - [Tools & Scripts](#tools--scripts)
 - [Resources](#resources)
-- [Contributing](#contributing)
 - [License](#license)
+
 
 ## Projects & Labs
 
