@@ -48,20 +48,19 @@ A personal collection of hands-on SOC projects and labs I've completed (or am wo
 
 ## SOC Labs
 
-Hands-on guided labs from platforms like TryHackMe, LetsDefend, Blue Team Labs Online, etc. Documented with screenshots and learnings.
+Completed hands on guided labs from blue team platforms to deepen SOC analyst skills (alert investigation, log analysis, threat detection, incident response). Each is documented in its folder with step by step write ups, key learnings, challenges overcome, and screenshots.
 
-- [TryHackMe SOC Level 1 Path](./01-Beginner-Labs/TryHackMe-SOC1)
-- [LetsDefend Alert Investigations](./01-Beginner-Labs/LetsDefend-Alerts)
-- More coming soon...
+- **[TryHackMe SOC Level 1 Path]() [In Progress]**
+- **[Security Analyst Level 1 (SAL1)]() [In Progress]**
+- **[TryHackMe SOC Level 2 Path]() [In Progress]**
+- **[Certified Phishing Prevention Specialist (CPPS)]()**
 
 ## Tools & Scripts
 
 Custom scripts I've built for SOC tasks (Python/Bash):
 
-- Auto-log parser
-- Alert enrichment tool
-- IOC extractor
-- (Add your scripts here as you create them)
+- Packet Sniffer: Build in Python using Scapy
+- SOC Analyst Dashboard: Built in Puthon using Streamlit 
 
 ## Resources
 
@@ -69,7 +68,7 @@ Useful references for SOC/Blue Team learning:
 
 - **Certifications**: CompTIA Security+, CySA+, Splunk Core Certified User
 - **Books**: Blue Team Handbook, Practical Malware Analysis
-- **Roadmaps**: [Paul Jeremy's Blue Team Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- **Roadmaps**: [Cyber Security Expert](https://roadmap.sh/cyber-security)
 
 ## Contributing
 
