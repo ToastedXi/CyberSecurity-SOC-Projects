@@ -16,7 +16,7 @@
 
 <br>
 
-[![Beginner Labs](https://img.shields.io/badge/Beginner-Labs-blue)](#1. Beginner Projects)
+[![Beginner Labs](https://img.shields.io/badge/Beginner-Labs-blue)]()
 [![Intermediate Labs](https://img.shields.io/badge/Intermediate-Labs-orange)]()
 [![Advanced Labs](https://img.shields.io/badge/Advanced-Labs-red)]()
 [![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)]()
