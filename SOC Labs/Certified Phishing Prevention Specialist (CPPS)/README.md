@@ -14,7 +14,7 @@ This certification has equipped me with practical skills to identify, prevent, a
 
 - Phishing fundamentals, psychology, and attack mechanics
 - Identification of email phishing, smishing (SMS), vishing (voice), and social media attacks
-- Analysis of real-world phishing campaigns and advanced attacker tactics
+- Analysis of real world phishing campaigns and advanced attacker tactics
 - Best practices for detecting suspicious indicators in emails, links, attachments, and sender behavior
 - Effective incident reporting and response procedures
 - Multi-layered prevention strategies, including technical controls and awareness training
@@ -27,7 +27,7 @@ With this CPPS certification, I can immediately contribute the following to a se
   Rapid and accurate identification of phishing attempts during email triage and alert investigation, reducing response times and false negatives.
 
 - **Improved Incident Response**  
-  Structured reporting of phishing incidents, containment guidance, and post-incident recommendations to minimize impact.
+  Structured reporting of phishing incidents, containment guidance, and post incident recommendations to minimize impact.
 
 - **Employee Awareness Training Support**  
   Development and delivery of targeted phishing awareness sessions, simulations, and educational materials to reduce user susceptibility.
