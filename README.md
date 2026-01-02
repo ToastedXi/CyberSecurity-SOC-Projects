@@ -54,7 +54,7 @@ A personal collection of hands-on SOC projects and labs I've completed (or am wo
 Completed hands on guided labs from blue team platforms to deepen SOC analyst skills (alert investigation, log analysis, threat detection, incident response). Each is documented in its folder with step by step write ups, key learnings, challenges overcome, and screenshots.
 
 - **[TryHackMe SOC Level 1 Path]() [In Progress]**
-- **[Certified Phishing Prevention Specialist (CPPS)](https://media.licdn.com/dms/image/v2/D4E2DAQEcG_2P6jox3g/profile-treasury-image-shrink_800_800/B4EZt.yJiAGQAY-/0/1767358635569?e=1767963600&v=beta&t=sRKFLMb2g_LIcPyXByhUiu0OAYwJ1_F2yXfTkWQ5Ry0)**
+- **[![Certified Phishing Prevention Specialist (CPPS)](https://img.shields.io/badge/Certification-CPPS-brightgreen?style=flat-square)](https://github.com/ToastedXI/CyberSecurity-SOC-Projects/tree/main/SOC%20Labs/Certified%20Phishing%20Prevention%20Specialist%20(CPPS))**
 
 ## Tools & Scripts
 
