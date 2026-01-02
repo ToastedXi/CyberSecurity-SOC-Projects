@@ -56,7 +56,7 @@ Completed hands on guided labs from blue team platforms to deepen SOC analyst sk
 - **[TryHackMe SOC Level 1 Path]() [In Progress]**
 - **[Security Analyst Level 1 (SAL1)]() [In Progress]**
 - **[TryHackMe SOC Level 2 Path]() [In Progress]**
-- **[Certified Phishing Prevention Specialist (CPPS)]()**
+- **[Certified Phishing Prevention Specialist (CPPS)](https://media.licdn.com/dms/image/v2/D4E2DAQEcG_2P6jox3g/profile-treasury-image-shrink_800_800/B4EZt.yJiAGQAY-/0/1767358635569?e=1767963600&v=beta&t=sRKFLMb2g_LIcPyXByhUiu0OAYwJ1_F2yXfTkWQ5Ry0)**
 
 ## Tools & Scripts
 
