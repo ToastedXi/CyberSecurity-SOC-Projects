@@ -21,6 +21,10 @@
 [![Advanced Labs](https://img.shields.io/badge/Advanced-Labs-red)]()
 [![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)]()
 
+--
+
+- **[![Certified Phishing Prevention Specialist (CPPS)](https://img.shields.io/badge/Certification-CPPS-brightgreen?style=flat-square)](https://github.com/ToastedXI/CyberSecurity-SOC-Projects/tree/main/SOC%20Labs/Certified%20Phishing%20Prevention%20Specialist%20(CPPS))**
+
 </div>
 
 ## Table of Contents
@@ -54,7 +58,6 @@ A personal collection of hands-on SOC projects and labs I've completed (or am wo
 Completed hands on guided labs from blue team platforms to deepen SOC analyst skills (alert investigation, log analysis, threat detection, incident response). Each is documented in its folder with step by step write ups, key learnings, challenges overcome, and screenshots.
 
 - **[TryHackMe SOC Level 1 Path]() [In Progress]**
-- **[![Certified Phishing Prevention Specialist (CPPS)](https://img.shields.io/badge/Certification-CPPS-brightgreen?style=flat-square)](https://github.com/ToastedXI/CyberSecurity-SOC-Projects/tree/main/SOC%20Labs/Certified%20Phishing%20Prevention%20Specialist%20(CPPS))**
 
 ## Tools & Scripts
 
