@@ -6,7 +6,7 @@ I'm proud to announce that I have successfully completed the **Certified Phishin
 
 This certification has equipped me with practical skills to identify, prevent, and respond to phishing attacks, One of the most common and dangerous threats in cybersecurity today. It's a valuable addition to my Security Operations Center (SOC) skill set, enhancing my capabilities in threat detection, user awareness, and blue team defense.
 
-![Certified Phishing Prevention Specialist (CPPS) Certificate](./certificate.png)
+![Certified Phishing Prevention Specialist (CPPS) Certificate](./Untitled.jpg)
 
 ## Key Components Learned
 
