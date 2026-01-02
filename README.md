@@ -5,7 +5,7 @@
 
 # SOC Cybersecurity Projects 🛡️
 
-**Hands-on SOC Projects & Labs to Build Real-World Security Operations Experience** 🔍
+**Hands on SOC Projects & Labs to Build Real World Security Operations Experience** 🔍
 
 [![Stars](https://img.shields.io/github/stars/ToastedXi/CyberSecurity-SOC-Projects?style=social)](https://github.com/ToastedXi/CyberSecurity-SOC-Projects/stargazers)
 [![Forks](https://img.shields.io/github/forks/ToastedXi/CyberSecurity-SOC-Projects?style=social)](https://github.com/ToastedXi/CyberSecurity-SOC-Projects/network/members)
