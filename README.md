@@ -23,7 +23,7 @@
 
 --
 
-- **[![Certified Phishing Prevention Specialist (CPPS)](https://img.shields.io/badge/Certification-CPPS-brightgreen?style=flat-square)](https://github.com/ToastedXI/CyberSecurity-SOC-Projects/tree/main/SOC%20Labs/Certified%20Phishing%20Prevention%20Specialist%20(CPPS))**
+[![Certified Phishing Prevention Specialist (CPPS)](https://img.shields.io/badge/Certification-CPPS-brightgreen?style=flat-square)](https://github.com/ToastedXI/CyberSecurity-SOC-Projects/tree/main/SOC%20Labs/Certified%20Phishing%20Prevention%20Specialist%20(CPPS))
 
 </div>
 
