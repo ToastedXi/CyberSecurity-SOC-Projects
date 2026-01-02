@@ -16,10 +16,10 @@
 
 <br>
 
-[![Beginner Labs](https://img.shields.io/badge/Beginner-Labs-blue)](./01.Beginner Projects)
-[![Intermediate Labs](https://img.shields.io/badge/Intermediate-Labs-orange)](./02-Intermediate-Labs)
-[![Advanced Labs](https://img.shields.io/badge/Advanced-Labs-red)](./03-Advanced-Labs)
-[![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)](#tools--scripts)
+[![Beginner Labs](https://img.shields.io/badge/Beginner-Labs-blue)](#1. Beginner Projects)
+[![Intermediate Labs](https://img.shields.io/badge/Intermediate-Labs-orange)]()
+[![Advanced Labs](https://img.shields.io/badge/Advanced-Labs-red)]()
+[![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)]()
 
 </div>
 
