@@ -1,10 +1,10 @@
-# Certified Phishing Prevention Specialist (CPPS) 🛡️
+# Certified Phishing Prevention Specialist (CPPS) :shield:
 
-**SOC Lab Certification Achievement**
+**SOC Lab Achievement**
 
 I'm proud to announce that I have successfully completed the **Certified Phishing Prevention Specialist (CPPS)** certification from Hack & Fix Academy!
 
-This certification has equipped me with practical skills to identify, prevent, and respond to phishing attacks — one of the most common and dangerous threats in cybersecurity today. It's a valuable addition to my Security Operations Center (SOC) skill set, enhancing my capabilities in threat detection, user awareness, and blue team defense.
+This certification has equipped me with practical skills to identify, prevent, and respond to phishing attacks, One of the most common and dangerous threats in cybersecurity today. It's a valuable addition to my Security Operations Center (SOC) skill set, enhancing my capabilities in threat detection, user awareness, and blue team defense.
 
 <img src="./Untitled.jpg" alt="Certified Phishing Prevention Specialist (CPPS) Certificate" width="600"/>
 
@@ -33,16 +33,14 @@ With this CPPS certification, I can immediately contribute the following to a se
   Development and delivery of targeted phishing awareness sessions, simulations, and educational materials to reduce user susceptibility.
 
 - **Policy & Process Recommendations**  
-  Actionable suggestions for strengthening anti-phishing controls (e.g., email filtering, MFA enforcement, attachment sanitization workflows).
+  Actionable suggestions for strengthening anti phishing controls (e.g., email filtering, MFA enforcement, attachment sanitization workflows).
 
 - **Threat Intelligence Contribution**  
   Ability to analyze phishing trends and incorporate insights into SOC playbooks and detection rules.
 
-This certification complements hands-on SOC experience and demonstrates commitment to defending against one of the top initial access vectors in modern cyberattacks.
+This certification complements hands on SOC experience and demonstrates commitment to defending against one of the top initial access vectors in modern cyberattacks.
 
-Thank you to **Hack & Fix Academy** for providing high-quality, practical training!
-
-#CyberSecurity #PhishingPrevention #CPPS #SOC #InfoSec #BlueTeam
+Thank you to **Hack & Fix Academy** for providing high quality, practical training!
 
 ---
 *Last updated: January 02, 2026*
