@@ -21,7 +21,7 @@
 [![Advanced Labs](https://img.shields.io/badge/Advanced-Labs-red)]()
 [![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)]()
 
---
+<br>
 
 [![Certified Phishing Prevention Specialist (CPPS)](https://img.shields.io/badge/Certification-CPPS-brightgreen?style=flat-square)](https://github.com/ToastedXI/CyberSecurity-SOC-Projects/tree/main/SOC%20Labs/Certified%20Phishing%20Prevention%20Specialist%20(CPPS))
 
