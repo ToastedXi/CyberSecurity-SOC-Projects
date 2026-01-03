@@ -12,7 +12,7 @@
 [![Issues](https://img.shields.io/github/issues/ToastedXi/CyberSecurity-SOC-Projects)](https://github.com/ToastedXi/CyberSecurity-SOC-Projects/issues)
 [![License](https://img.shields.io/github/license/ToastedXi/CyberSecurity-SOC-Projects)](https://github.com/ToastedXi/CyberSecurity-SOC-Projects/blob/main/LICENSE)
 
-[![Progress](https://img.shields.io/badge/Projects_Completed-2%3F7-blue)](https://github.com/ToastedXi/CyberSecurity-SOC-Projects#projects--labs)
+[![Progress](https://img.shields.io/badge/Projects_Completed-3%2F7-blue)](https://github.com/ToastedXi/CyberSecurity-SOC-Projects#projects--labs)
 
 <br>
 
