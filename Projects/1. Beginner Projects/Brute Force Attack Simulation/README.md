@@ -58,5 +58,6 @@ Recommended inclusions:
 
 ```text
 [Screenshot Placeholder – Repeated Failed Logons (4625)]
+![Kali Linux Dragon](Repeated Failed Logons.png)
 [Screenshot Placeholder – Expanded Authentication Event]
 [Screenshot Placeholder – Correlated Brute Force Timeline]
