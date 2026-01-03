@@ -40,13 +40,13 @@
 
 ## Projects & Labs
 
-A personal collection of hands-on SOC projects and labs I've completed (or am working on) to gain real-world experience. Each includes detailed write-ups, screenshots, tools used, and key takeaways in its folder.
+A personal collection of hands on SOC projects and labs I've completed (or am working on) to gain real world experience. Each includes detailed write ups, screenshots, tools used, and key takeaways in its folder.
 
 | # | Title                                      | Difficulty   | Category              | Description                                                                 | Status                  | Folder Link                                   |
 |---|--------------------------------------------|--------------|-----------------------|-----------------------------------------------------------------------------|-------------------------|-----------------------------------------------|
 | 1 | Packet Sniffer using Scapy                 | Beginner     | Network Forensics     | Built a custom packet sniffer in Python to capture, filter, and analyze network traffic | Completed (Dec 2025)    | [View](https://github.com/ToastedXi/Simple-Sniffer) |
 | 2 | SOC Dashboard for IP Analysis (AbuseIPDB API) | Beginner     | Threat Intelligence   | Created a dashboard/script to query AbuseIPDB API, check IP reputation, and visualize malicious activity reports | Completed (Dec 2025)    | [View](https://github.com/ToastedXi/SOC-Analyst-Dashboard) |
-| 3 | Brute Force Attack Simulation & Detection with Wazuh | Beginner | SIEM / Alert Triage | Simulated brute-force logon attempts from Kali attacker to Windows victim and analyzed failed login alerts in Wazuh | Completed (Jan 2026) | [View](https://github.com/ToastedXi/CyberSecurity-SOC-Projects/tree/main/Projects/1.%20Beginner%20Projects/Brute%20Force%20Attack%20Simulation) |
+| 3 | Brute Force Attack Simulation & Detection with Wazuh | Beginner | SIEM / Alert Triage | Simulated brute force logon attempts from Kali attacker to Windows victim and analyzed failed login alerts in Wazuh | Completed (Jan 2026) | [View](https://github.com/ToastedXi/CyberSecurity-SOC-Projects/tree/main/Projects/1.%20Beginner%20Projects/Brute%20Force%20Attack%20Simulation) |
 | 4 | Metasploit Exploit Simulation & Alert Analysis with Wazuh | Intermediate | Exploitation & Alert Triage | Simulated real exploits using Metasploit (from Kali attacker to Windows victim), triggered alerts in Wazuh SIEM, and analyzed/documented intrusion events | In Progress (Jan 2026) | [View]() |
 
 > **Progress**: 3 Completed • 1 In Progress • 0 Planned  
