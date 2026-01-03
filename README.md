@@ -19,7 +19,6 @@
 [![Beginner Labs](https://img.shields.io/badge/Beginner-Labs-blue)]()
 [![Intermediate Labs](https://img.shields.io/badge/Intermediate-Labs-orange)]()
 [![Advanced Labs](https://img.shields.io/badge/Advanced-Labs-red)]()
-[![Tools & Scripts](https://img.shields.io/badge/Tools_&_Scripts-purple)]()
 
 <br>
 
@@ -58,13 +57,6 @@ A personal collection of hands-on SOC projects and labs I've completed (or am wo
 Completed hands on guided labs from blue team platforms to deepen SOC analyst skills (alert investigation, log analysis, threat detection, incident response). Each is documented in its folder with step by step write ups, key learnings, challenges overcome, and screenshots.
 
 - **[TryHackMe SOC Level 1 Path]() [In Progress]**
-
-## Tools & Scripts
-
-Custom scripts I've built for SOC tasks (Python/Bash):
-
-- Packet Sniffer: Build in Python using Scapy
-- SOC Analyst Dashboard: Built in Puthon using Streamlit 
 
 ## Resources
 
