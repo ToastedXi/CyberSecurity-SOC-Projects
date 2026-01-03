@@ -56,8 +56,11 @@ Recommended inclusions:
 - Expanded event details highlighting logon type and source
 - Timeline correlation of failures → success or lockout
 
-```text
-[Screenshot Placeholder – Repeated Failed Logons (4625)]
-![Kali Linux Dragon](Repeated Failed Logons.png)
-[Screenshot Placeholder – Expanded Authentication Event]
-[Screenshot Placeholder – Correlated Brute Force Timeline]
+### Repeated Failed Logons (Event ID 4625)
+![Wazuh dashboard showing repeated Event ID 4625 failed logon alerts](Repeated%20Failed%20Logons.png)
+
+### Expanded Authentication Event
+![Detailed view of a single Event ID 4625 with logon type, source IP, and failure reason](Expanded%20Authentication.png)
+
+### Correlated Brute Force Timeline
+![Timeline correlating repeated failed logons leading to potential success or lockout](Correlated%20Brute%20Force.png)
