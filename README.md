@@ -111,9 +111,9 @@ Examples include:
 ### Certifications
 
 - CompTIA Security+
-- CompTIA CySA+
+- CompTIA CySA+ Planned)
 - Certified Phishing Prevention Specialist (CPPS)
-- Splunk Core Certified User
+- Splunk Core Certified User Planned)
 - Security Blue Team Level 1 (Planned)
 
 ### Books
